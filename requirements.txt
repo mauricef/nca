@@ -1,0 +1,7 @@
+dm_haiku
+jax
+jupyterlab
+optax
+matplotlib
+moviepy
+Pillow
